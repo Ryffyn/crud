@@ -104,9 +104,7 @@ include("sidebar.php");
 
 
        
-				<!--<h3>
-				<span>Cadastro Clientes</span>
-				</h3>-->
+				
     <form class=" navbar-left-right" method="post" style="float:right;margin-top:10px;">
               <input type="text"  name="busca" placeholder="Pesquisar Fat Part...">
               <input type="submit"  value="" class="fa fa-search">
